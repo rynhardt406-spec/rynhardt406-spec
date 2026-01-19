@@ -1,5 +1,6 @@
 ## About Me
-I’m a  Computer Science student with a passion for coding and technology. I enjoy solving problems through programming and continuously learning new tools and concepts to improve my skills as a developer. 
+I’m a  Computer Science student with a passion for coding and technology.
+I enjoy solving problems through programming and continuously learning new tools and concepts to improve my skills as a developer. 
 
  
 
