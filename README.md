@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me
+I’m a  Computer Science student with a passion for coding and technology. I enjoy solving problems through programming and continuously learning new tools and concepts to improve my skills as a developer. 
+
+ 
 
 <!--
 **rynhardt406-spec/rynhardt406-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
